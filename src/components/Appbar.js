@@ -159,7 +159,7 @@ function Appbar() {
               </Button>
             ))}
           </Box>
-
+          {/* user has loged in then display this  */}
           <Box sx={{ flexGrow: 0 }}>
             <IconButton aria-label="cart">
               <StyledBadge badgeContent={4} color="secondary">

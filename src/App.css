@@ -62,3 +62,8 @@
   flex-wrap: wrap;
   gap: 50px 50px;
 }
+
+.center{
+  align-items: center;
+    justify-content: center;
+}
